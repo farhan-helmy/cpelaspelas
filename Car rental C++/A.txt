@@ -1,6 +1,9 @@
-Specifications:
+Engine Specification
 
-40 kWh and 60 kWh
-Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
-Max. power, motor			382 hp 285 kW		382 hp 285 kW
-Max. power, battery			235 hp 175 kW		302 hp 225 kW
+Power (kW)  23  37 kW
+Horsepower  31  50 hp
+Horsepower  31  50 bhp
+Rev. at Max Power  6400
+Torque  49
+Torque (lb-ft)  31
+Rev. at Max Torque  3200

@@ -1,6 +1,17 @@
-Specifications:
-
-80 kWh and 90 kWh
-Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
-Max. power, motor			302 hp 285 kW		562 hp 285 kW
-Max. power, battery			265 hp 175 kW		902 hp 225 kW
+Engine type - Number of cylinders :	Inline 4
+Engine Code :	4G15
+Fuel type :	Petrol
+Fuel System :	MPFi
+Coolant :	Other
+Engine Alignment :	Transverse
+Engine size - Displacement - Engine capacity :	1468 cm3 or 89.6 cu-in
+Bore x Stroke :	75.50 x 82.00 mm
+2.95 x 3.23 inches
+Number of valves :	12 Valves
+Aspiration :	N/A
+Compression Ratio :	9.20
+Maximum power - Output - Horsepower :	89 PS or 88 bhp or 65 kW @ 6000 rpm
+Maximum torque :	126.0 Nm or 92 lb.ft @ 6000 rpm
+Drive wheels - Traction - Drivetrain :	FWD
+Transmission Gearbox - Number of speeds :	
+3 speed Automatic 

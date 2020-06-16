@@ -1,6 +1,10 @@
-Specifications:
-
-50 kWh and 80 kWh
-Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
-Max. power, motor			682 hp 285 kW		682 hp 285 kW
-Max. power, battery			935 hp 175 kW		802 hp 225 kW
+1.3 litre Dual VVT-i engine (1NR-VE)
+1,329 cc, four-cylinder petrol
+94 hp at 6,000 rpm, 121 Nm at 4,000 rpm
+Five-speed manual or four-speed E-AT
+36-litre fuel tank
+3,895 mm long, 1,735 mm wide, 1,515 mm tall, 2,500 mm wheelbase
+160 mm ground clearance
+Electric power steering (EPS)
+4.8-metre turning radius
+Five-year/150,000 km warranty

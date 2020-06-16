@@ -32,9 +32,9 @@ class rent : public customer // inhereted class from customer class
     do
     {
         cout <<"\t\t\t\tPlease Select a Car"<<endl; //giving user a choice to select among three different models
-        cout<<"\t\t\t\tEnter 'A' for Tesla 20011."<<endl;
-        cout<<"\t\t\t\tEnter 'B' for Hyundai 2015."<<endl;
-        cout<<"\t\t\t\tEnter 'C' for Ford 2017."<<endl;
+        cout<<"\t\t\t\tEnter 'A' for Kancil 2000."<<endl;
+        cout<<"\t\t\t\tEnter 'B' for Wira 2003."<<endl;
+        cout<<"\t\t\t\tEnter 'C' for Myvi 2018."<<endl;
         cout<<endl;
         cout<<"\t\t\t\tChoose a Car from the above options: ";
         cin >>carmodel;
@@ -44,7 +44,7 @@ class rent : public customer // inhereted class from customer class
  {
  	system("CLS");
 
-		cout<<"You have choosed Tesla model 2011"<<endl;
+		cout<<"You have choosed Kancil 2000"<<endl;
 		 ifstream inA("A.txt"); //displaying details of model A
          char str[200];
          while(inA) {
@@ -57,7 +57,7 @@ class rent : public customer // inhereted class from customer class
   {
   	system("CLS");
 
-		cout<<"You have choosed Hyundai model 2015"<<endl;
+		cout<<"You have choosed Wira 2003"<<endl;
 		 ifstream inB("B.txt"); //displaying details of model B
          char str[200];
          while(inB) {
@@ -70,7 +70,7 @@ class rent : public customer // inhereted class from customer class
  if(carmodel=="C")
  {
  	system("CLS");
-	     cout<<"You have choosed Ford model 2017"<<endl;
+	     cout<<"You have choosed Myvi 2018."<<endl;
 		 ifstream inC("C.txt"); //displaying details of model C
          char str[200];
          while(inC) {
@@ -120,9 +120,9 @@ void showrent()
     cout << "\t\t	| Advanced :"<<"---------------------|"<<setw(10)<<"0"<<" |"<<endl;
     cout << "\t\t	 ________________________________________________________"<<endl;
     cout <<"\n";
-    cout << "\t\t	| Total Rental Amount is :"<<"-------|"<<setw(10)<<rentalfee<<" |"<<endl;
+    cout << "\t\t	| Total Rental Amount is :"<<"-------|"<<setw(10)<<"RM"<<rentalfee<<" |"<<endl;
     cout << "\t\t	 ________________________________________________________"<<endl;
-    cout << "\t\t	 # This is a computer generated invoce and it does not"<<endl;
+    cout << "\t\t	 # This is a computer generated invoice and it does not"<<endl;
     cout << "\t\t	 require an authorised signture #"<<endl;
     cout <<" "<<endl;
     cout << "\t\t	///////////////////////////////////////////////////////////"<<endl;
@@ -198,8 +198,8 @@ int login(){
       cout << '*';
       ch = _getch();
    }
-   if(pass == "pass"){
-      cout << "\n\n\n\t\t\t\t\t\tAccess Granted! \n";
+   if(pass == "1234"){
+      cout << "\n\n\n\t\t\t\t\t\t Welcome \n";
       system("PAUSE");
       system ("CLS");
    }else{
